@@ -2,5 +2,10 @@
     xmlns:mvc="sap.ui.core.mvc"
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
+        <content>
+            <VBox class="sapUiSmallMargin" justifyContent="Center" alignItems="Center" height="100%">
+                <Text text="Welcome to My Page" class="welcomeText" />
+            </VBox>
+        </content>
     </Page>
 </mvc:View>

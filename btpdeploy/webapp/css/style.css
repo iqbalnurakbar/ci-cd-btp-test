@@ -1,1 +1,7 @@
 /* Enter your custom styles here */
+.welcomeText {
+  color: #333;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
