@@ -6,7 +6,7 @@ sap.ui.define(
     return Controller.extend("btpdeploy.controller.View1", {
       onInit() {},
       sayHello: function () {
-        MessageToast.show("Hello!");
+        MessageToast.show("Hello! Nice to meet you!");
       },
     });
   }
